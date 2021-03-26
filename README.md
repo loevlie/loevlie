@@ -5,7 +5,7 @@
 
 ## I'm a Chemical Engineer, Sofware Developer, Machine and Deep Learning enthusiast, and Ph.D. candidate!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything I can
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play soccer and explore Pittsburgh 
