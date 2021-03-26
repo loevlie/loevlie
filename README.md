@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DennisLoevlie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDennisLoevlie&screen_name=DennisLoevlie)
 
-## I'm a Chemical Engineer, Sofware Developer, Machine and Deep Learning enthusiast, and Ph.D. candidate!!
+## I'm a Chemical Engineer, Sofware Developer, Machine and Deep Learning enthusiast, and future Ph.D. candidate!!
 
 - 🌱 I’m currently learning everything I can
 - 🤝 I’m looking to collaborate with other machine and deep learning enthusiasts
