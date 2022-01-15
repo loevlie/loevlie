@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything I can and working in the CANELa lab at the University of Pittsburgh
 - :handshake: I’m looking to collaborate with other machine and deep learning enthusiasts
-- 🥅 2021 Goals: Contribute to Open Source projects and making ML/DL tutorial's 
+- 🥅 2022 Goals: Contribute to Open Source projects and making ML/DL tutorial's 
 - ⚡ Fun fact: I love to play soccer and explore Pittsburgh 
 
 ### Connect with me:
