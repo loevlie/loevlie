@@ -1,8 +1,9 @@
 # 💫About Me :
 - 🌱 I’m currently learning everything I can and working in the CANELa lab at the University of Pittsburgh
+- 👨‍🏫 I look for high impact work and to implement simple, well executed solutions
 - 🤝 I’m looking to collaborate with other machine and deep learning enthusiasts
 - 🥅 2022 Goals: Contribute to Open Source projects and make ML/DL tutorials, get into a Ph.D. program applying deep learning and striving to be the best researcher I can be!
-- ⚡ Fun fact: I love to play soccer and explore Pittsburgh
+- ⚡ Fun fact: I love to play soccer! 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/denny.loevlie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennisloevlie/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dennyloevlie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DennisLoevlie) 
