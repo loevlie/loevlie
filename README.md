@@ -1,8 +1,8 @@
-# 💫About Me :
-- 🌱 I’m currently learning everything I can and working in the CANELa lab at the University of Pittsburgh
+# About Me :
+- 🌱 I’m currently learning everything I can and working hard in the CANELa lab at the University of Pittsburgh
 - 👨‍🏫 I look for high impact work and to implement simple, well executed solutions
 - 🤝 I’m looking to collaborate with other machine and deep learning enthusiasts
-- 🥅 2022 Goals: Contribute to Open Source projects and make ML/DL tutorials, get into a Ph.D. program applying deep learning and striving to be the best researcher I can be!
+- 🥅 2022-2023 Goals: Start a Ph.D. program applying deep learning and striving to be the best researcher I can be!
 - ⚡ Fun fact: I love to play soccer! 
 
 ## 🌐Socials
