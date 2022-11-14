@@ -1,9 +1,9 @@
 # About Me :
-- 🌱 I’m currently learning everything I can and working hard in the CANELa lab at the University of Pittsburgh
+- 🌱 I am a dedicated researcher with a passion for deep learning methods and applications
 - 👨‍🏫 I look for high impact work and to implement simple, well executed solutions
 - 🤝 I’m looking to collaborate with other machine and deep learning enthusiasts
-- 🥅 2022-2023 Goals: Start a Ph.D. program applying deep learning and striving to be the best researcher I can be!
-- ⚡ Fun fact: I love to play soccer! 
+- 🥅 2022-2023 Goals: Start a Ph.D. program in computer science and strive to be the best researcher I can be!
+- :soccer: Fun fact: I love to play soccer, I have been playing the beautiful game since I was 3 years old! 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/denny.loevlie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennisloevlie/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dennyloevlie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DennisLoevlie) 
