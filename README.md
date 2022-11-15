@@ -2,7 +2,7 @@
 - 🌱 I am a dedicated researcher with a passion for deep learning methods and applications
 - 👨‍🏫 I look for high impact work and to implement simple, well executed solutions
 - 🤝 I’m looking to collaborate with other machine and deep learning enthusiasts
-- 🥅 2022-2023 Goals: Start a Ph.D. program in computer science and strive to be the best researcher I can be!
+- 🥅 2023 Goals: Start a Ph.D. program in computer science and strive to be the best researcher I can be!
 - :soccer: Fun fact: I love to play soccer, I have been playing the beautiful game since I was 3 years old! 
 
 ## 🌐Socials
