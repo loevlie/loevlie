@@ -3,7 +3,6 @@
 <div align="center">
   <h1>Dennis Johan Loevlie</h1>
   <h3>AI Research • Multi-Modal ML • Soccer ⚽</h3>
-  <p><strong>2025 Goals: Apply to ML PhD</strong></p>
   <p><strong>💻 Tech Stack (always growing)</strong></p>
 </div>
 
