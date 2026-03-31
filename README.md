@@ -13,3 +13,5 @@
 
   
 ![](https://ossrank.com/widget/783038)
+![GitHub followers](https://img.shields.io/github/followers/loevlie?style=social)
+![GitHub stars](https://img.shields.io/github/stars/loevlie?style=social)
